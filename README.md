@@ -1,4 +1,4 @@
-# votaapp
+# votaapp.vue
 
 ## Project setup
 ```
